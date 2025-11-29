@@ -26,7 +26,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
    git clone https://github.com/RohitKumarkolli/Customer_Shopping_DataAnalysis_Python_SQL_PowerBI.git
    cd Customer_Shopping_DataAnalysis_Python_SQL_PowerBI
    ```
-2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+2. **Open Customer_Shopping_Analysis.ipynb notebook**
 
     This file contains:
 
@@ -38,13 +38,13 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
       - Connection to SQL Database
   
-3. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
+3. **Load the data from Python notebook into PostgreSQL Server**
 
       - Create a database in SQL
 
       - Run Python code to load data into SQL database
   
-      - Open **customer_behavior_sql_queries.sql**
+      - Open **Customer_Shopping_behavior_SQL_queries.sql**
   
       - Answer Business Questions using SQL Queries 
       
