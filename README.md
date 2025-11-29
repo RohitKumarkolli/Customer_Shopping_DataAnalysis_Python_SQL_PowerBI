@@ -118,8 +118,13 @@ Loyal and subscribed customers spend more frequently
 
 Discounts drive higher purchase counts
 
+
+
 Express shipping correlates with higher order value
 
 Middle-aged groups contribute the highest revenue
 
 Several top-rated items show strong repeat purchase behavior
+
+
+<img width="1078" height="611" alt="image" src="https://github.com/user-attachments/assets/5b85f214-45aa-487c-800a-25c20351da38" />
