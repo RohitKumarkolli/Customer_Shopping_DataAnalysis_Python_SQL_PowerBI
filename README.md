@@ -1,33 +1,25 @@
-📊 Customer Shopping Behavior Analysis
-📘 Overview
+# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
+This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
-This project analyzes customer shopping behavior using a dataset of 3,900 transactions. The goal is to understand spending patterns, customer demographics, product performance, and subscription preferences through data analysis, SQL, and an interactive dashboard.
+This project is perfect for:
 
-The workflow includes:
-
-Loading and cleaning data in Python
-
-Exploratory Data Analysis (EDA)
-
-Running SQL queries in PostgreSQL
-
-Building an interactive Power BI dashboard
-
-Creating a final business insights report using Gamma
+📊 Data Analyst aspirants who want to build a strong Portfolio Project for interviews and LinkedIn
+📚 Anyone learning Python, SQL, and Power BI
+💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
 
 📂 Dataset Summary
 
-Rows: 3,900
+- Rows: 3,900
 
-Columns: 18
+- Columns: 18
 
-Types of Data:
+- Types of Data:
 
-Customer demographics (age, gender, location, subscription status)
++ Customer demographics (age, gender, location, subscription status)
 
-Purchase details (category, item, amount, season, size, color)
++ Purchase details (category, item, amount, season, size, color)
 
-Behavioral data (discount applied, previous purchases, ratings)
++ Behavioral data (discount applied, previous purchases, ratings)
 
 Missing Values:
 
