@@ -38,7 +38,7 @@ This project is perfect for:
 -> Git/GitHub – Version control
 
 # 🛠 Project Steps
-- 1. Data Loading & EDA (Python)
+=> 1. Data Loading & EDA (Python)
 
 Loaded dataset using pandas
 
@@ -46,7 +46,7 @@ Explored dataset using .info(), .describe(), and visualizations
 
 Detected missing values and outliers
 
-- 2. Data Cleaning
+-> 2. Data Cleaning
 
 Imputed missing review ratings using median per category
 
@@ -60,7 +60,7 @@ Removed redundant features
 
 Uploaded cleaned dataset to PostgreSQL
 
-- 3. SQL Analysis (PostgreSQL)
+** 3. SQL Analysis (PostgreSQL)
 
 Performed structured queries to answer business questions such as:
 
@@ -82,7 +82,7 @@ Repeat buyers likely to subscribe
 
 Revenue by age groups
 
-- 4. Power BI Dashboard
+@ 4. Power BI Dashboard
 
 Created a dashboard that visualizes:
 
@@ -98,7 +98,7 @@ Discount usage
 
 Rating insights
 
-- 5. Final PPT Report (Gamma)
+! 5. Final PPT Report (Gamma)
 
 A clean, presentation-ready report summarizing findings, insights, and recommendations.
 
