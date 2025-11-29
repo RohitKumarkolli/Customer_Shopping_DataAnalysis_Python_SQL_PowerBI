@@ -1,4 +1,4 @@
-# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
+# 👨🏻‍💻Customer Shopping Behavior Data Analyst Portfolio Project
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 This project is perfect for:
@@ -59,5 +59,3 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       - Create project report
    
       - Build presentation deck using Gamma AI
-  
-7. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
