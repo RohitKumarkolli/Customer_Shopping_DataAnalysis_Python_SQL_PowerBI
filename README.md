@@ -1,4 +1,4 @@
-# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
+## 👨🏻‍💻Customer Shopping Behavior Data Analyst Portfolio Project
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 This project is perfect for:
@@ -7,7 +7,7 @@ This project is perfect for:
 📚 Anyone learning Python, SQL, and Power BI
 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
 
-📂 Dataset Summary
+# 📂 Dataset Summary
 
 - Rows: 3,900
 
@@ -21,24 +21,24 @@ This project is perfect for:
 
 + Behavioral data (discount applied, previous purchases, ratings)
 
-Missing Values:
+- Missing Values:
 
-37 missing values in Review Rating column
+- 37 missing values in Review Rating column
 
-🧰 Tools & Technologies
+# 🧰 Tools & Technologies
 
-Python – Pandas, NumPy, Matplotlib, Seaborn
+-> Python – Pandas, NumPy, Matplotlib, Seaborn
 
-PostgreSQL – SQL queries for deeper analysis
+-> PostgreSQL – SQL queries for deeper analysis
 
-Power BI – Dashboard and data visualization
+-> Power BI – Dashboard and data visualization
 
-Gamma.app – Final project report
+-> Gamma.app – Final project report
 
-Git/GitHub – Version control
+-> Git/GitHub – Version control
 
-🛠 Project Steps
-1. Data Loading & EDA (Python)
+# 🛠 Project Steps
+- 1. Data Loading & EDA (Python)
 
 Loaded dataset using pandas
 
@@ -46,7 +46,7 @@ Explored dataset using .info(), .describe(), and visualizations
 
 Detected missing values and outliers
 
-2. Data Cleaning
+- 2. Data Cleaning
 
 Imputed missing review ratings using median per category
 
@@ -60,7 +60,7 @@ Removed redundant features
 
 Uploaded cleaned dataset to PostgreSQL
 
-3. SQL Analysis (PostgreSQL)
+- 3. SQL Analysis (PostgreSQL)
 
 Performed structured queries to answer business questions such as:
 
@@ -82,7 +82,7 @@ Repeat buyers likely to subscribe
 
 Revenue by age groups
 
-4. Power BI Dashboard
+- 4. Power BI Dashboard
 
 Created a dashboard that visualizes:
 
@@ -98,19 +98,17 @@ Discount usage
 
 Rating insights
 
-5. Final PPT Report (Gamma)
+- 5. Final PPT Report (Gamma)
 
 A clean, presentation-ready report summarizing findings, insights, and recommendations.
 
-📈 Key Results
+# 📈 Key Results
 
 Female customers generated slightly higher revenue
 
 Loyal and subscribed customers spend more frequently
 
 Discounts drive higher purchase counts
-
-
 
 Express shipping correlates with higher order value
 
